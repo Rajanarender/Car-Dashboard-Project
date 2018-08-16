@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>glcode.js</file>
+        <file>Dashboard.qml</file>
+        <file>Images/fuelmeter.png</file>
+    </qresource>
+    <qresource prefix="/files"/>
+</RCC>
